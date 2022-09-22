@@ -1,0 +1,16 @@
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/bin/Debug/netcoreapp3.1/Week08.Homework
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/bin/Debug/netcoreapp3.1/Week08.Homework.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/bin/Debug/netcoreapp3.1/Week08.Homework.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/bin/Debug/netcoreapp3.1/Week08.Homework.runtimeconfig.dev.json
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/bin/Debug/netcoreapp3.1/Week08.Homework.dll
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/bin/Debug/netcoreapp3.1/Week08.Homework.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.dll
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.genruntimeconfig.cache
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/kamranimranli/Desktop/CodeAcademy/HOMETASKs/Week08.Homework/Week08.Homework/obj/Debug/netcoreapp3.1/Week08.Homework.csproj.CopyComplete
