@@ -322,7 +322,7 @@ namespace Week08.Homework
                         //Check if logged in
                         if (verification.VerifyLogin())
                         {
-                            IsContinuing = false;
+                            Continues = false;
                             break;
                         }
                         else
@@ -341,7 +341,7 @@ namespace Week08.Homework
                         Console.WriteLine("Regstration is successfull. You are being redirected to maing page");
                         break;
                     case 3:
-                        IsContinuing = false;
+                        Continues = false;
                         break;
                     default:
                         Console.WriteLine("Invalid choice!");

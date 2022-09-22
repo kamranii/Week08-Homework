@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{35548EE1-5277-4B6A-871C-C2266F871DA2}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Week08.Homework PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Week08.Homework/Program.cs">
     <Files>
-      <File FileName="Week08.Homework/Program.cs" Line="117" Column="1" />
+      <File FileName="Week08.Homework/Program.cs" Line="317" Column="51" />
       <File FileName="Week08.Homework/Registration/User.cs" Line="13" Column="6" />
       <File FileName="Week08.Homework/Registration/Database.cs" Line="12" Column="10" />
       <File FileName="Week08.Homework/Registration/RegistrationOperations.cs" Line="132" Column="33" />
@@ -15,7 +20,6 @@
           <Node name="Week08.Homework" expanded="True">
             <Node name="Week08.Homework" expanded="True">
               <Node name="Registration" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,9 +29,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Week08.Homework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
